@@ -1,0 +1,6 @@
+[submodule "Device/ST/STM32L4xx"]
+	path = Device/ST/STM32L4xx
+	url = https://github.com/STMicroelectronics/cmsis-device-l4.git
+[submodule "Device/ST/STM32N6xx"]
+	path = Device/ST/STM32N6xx
+	url = https://github.com/STMicroelectronics/cmsis-device-n6.git

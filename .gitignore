@@ -8,4 +8,3 @@ CMSIS/Documentation/
 *.zip
 output
 #Ignore modules added by the repo script
-Device/ST/
